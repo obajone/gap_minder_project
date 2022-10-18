@@ -1,4 +1,4 @@
-# Exam Scores Data Exploration
+# Gapminder World Data Exploration
 ## by Eddington Obaro Jonathan
 
 ## Dataset
